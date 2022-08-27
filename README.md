@@ -122,15 +122,16 @@
 
 ### 4-1. UCC
 
-UCC
+[![UCC](https://img.youtube.com/vi/-WiFoY4lNRk/0.jpg)](https://youtu.be/-WiFoY4lNRk) 
 
 ### 4-2. 메인 서비스 시연
 
 #### 상품 검색 & 장바구니 & 가상 포트폴리오
-[상품 검색 & 장바구니 & 가상 포트폴리오](assets/시연1.mp4)
+
+[![상품 검색 & 장바구니 & 가상 포트폴리오](https://img.youtube.com/vi/rMqM7qSuPM0/0.jpg)](https://youtu.be/rMqM7qSuPM0) 
 
 #### MY 포트폴리오
-[MY 포트폴리오](assets/시연2.mp4)
+[![MY 포트폴리오](https://img.youtube.com/vi/rhvItLLQlbU/0.jpg)](https://youtu.be/rhvItLLQlbU) 
 
 <br>
 
