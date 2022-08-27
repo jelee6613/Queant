@@ -10,6 +10,8 @@
 4. 시연
 5. 문제 & 해결
 
+<br>
+
 ## 1. 개요
 
 > 퀸트(Queant)는 여왕개미(Queen + Ant)의 약자입니다.
@@ -21,6 +23,8 @@
 > 
 
 ![서비스](assets/서비스.jpg)
+
+<br>
 
 ## 2. 프로젝트 구성원 & 기여도
 
@@ -47,6 +51,8 @@
         - Admin
         - Products Results
         - My Portfolio
+
+<br>
 
 ## 3. 개발 환경 & 설계
 
@@ -103,15 +109,15 @@
 
 ### 3-3. 설계
 
-### 와이어프레임
-
-https://www.figma.com/file/HB1cZlG95g9oFXBhvHW6Al/Queant?node-id=0%3A1
+#### 와이어프레임
 
 ![피그마](assets/피그마.png)
 
-### ERD
+#### ERD
 
 ![erd](assets/erd.jpg)
+
+<br>
 
 ## 4. 시연
 
@@ -127,9 +133,12 @@ UCC
 #### MY 포트폴리오
 [MY 포트폴리오](assets/시연2.mp4)
 
+<br>
+
 ## 5. 문제 & 해결
 
-### 소셜 로그인 - Back-End와 통신하며 응답 받을 시점?
+<details>
+  <summary><h3>소셜 로그인 - Back-End와 통신하며 응답 받을 시점?</h3></summary>
 
 - **문제**
 
@@ -142,7 +151,9 @@ Front End와 Back End에서 API KEY를 이중으로 관리하기 보단 하나�
 4. 화면에 Token값 출력
  
 1요청 1응답을 준수하지 않아서 문제가 발생했다. Front End는 Back End에게 소셜 로그인 화면을 요청하고, 그에 대한 응답을 받으면 끝난다. 뒤이은 Token값에 접근할 방법이 없다.
-> 
+ 
+<br>
+ 
 - **해결**
 
 > 로그인 화면을 띄워서 인가 코드(Authorization Code) 발급 요청과 인가 코드로 Token값을 받는 총 2번의 요청을 보낸다.
@@ -193,8 +204,10 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
   })
 },
 ```
+</details>
 
-### 실시간 이중 필터링 처리
+<details>
+  <summary><h3>실시간 이중 필터링 처리</h3></summary>
 
 - **문제**
 
@@ -202,6 +215,9 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 
 처음엔 얼추 기능하는 것처럼 보이지만, 필터를 여러 번 바꿔보니 수시로 갱신 되는 users가 꼬여서 필터링이 제대로 되지 않았다.
 > 
+
+<br>
+
 - **해결**
 
 > 실시간 이중 필터링 처리를 위해 총 5가지의 state를 생성, 관리하기로 했다. 처음 전체 유저를 저장하는 users, 권한 필터링이 적용된 유저를 저장하는 roleUsers, 가입 유형 필터링 적용된 유저를 저장하는 socialUsers. 그리고 어느 필터링이 적용된 상태인지 확인하는 roleStatus, socialStatus. 흐름은 아래와 같다.
@@ -216,8 +232,10 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 > 
 
 😅 *이후 API 개선으로 로직이 간단해졌다.*
+</details>
 
-### 비동기 처리가 항상 옳은 것일까?
+<details>
+  <summary><h3>비동기 처리가 항상 옳은 것일까?</h3></summary>
 
 - **문제**
 
@@ -225,6 +243,8 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 
 상위 컴포넌트에서 전체 유저 정보를 v-for로 순회하며 하위 컴포넌트에 각 유저 정보를 props로 하달 했고, 하위 컴포넌트에서 props로 받은 data를 store의 state와 getters에 저장하여 이용하려 했으나, v-for의 마지막 요소만 저장되어 모든 하위 컴포넌트가 동일한 유저 정보를 출력하게 됐다.
 > 
+
+<br>
 
 - **해결**
 
@@ -234,8 +254,10 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 > 
 
 ![해결3](assets/해결3.gif)
+</details>
 
-### v-for의 배열 요소를 read뿐 아니라 write하는 방법
+<details>
+  <summary><h3>v-for의 배열 요소를 read뿐 아니라 write하는 방법</h3></summary>
 
 - **문제**
 
@@ -267,6 +289,8 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 </table>
 ```
 
+<br>
+
 - **해결**
 
 > 모달로 해결했다. v-for가 도는 scope안에 button을 생성해서, 모달 띄우는 메소드를 연결했다. button을 누르면 customProduct를 modal 컴포넌트에 props로 내려 받는 방법으로 깔끔한 UI를 구현했다.
@@ -285,3 +309,4 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 ```
 
 ![해결4](assets/해결4.gif)
+</details>
