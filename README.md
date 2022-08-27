@@ -1,18 +1,21 @@
 # Queant, 나만의 예금&적금 포트폴리오 만들기
 
+- 삼성 청년 SW아카데미 공통프로젝트 우수상
+- 2022년 7월 6일 ~ 2022년 8월 19일
+
 ![메인](assets/메인.png)
 
-## 목차
+## 📋목차
 
-1. 개요
-2. 프로젝트 구성원 & 기여도
-3. 개발 환경 & 설계
-4. 시연
-5. 문제 & 해결
+1️⃣ 개요 <br>
+2️⃣ 프로젝트 구성원 & 기여도 <br>
+3️⃣ 개발 환경 & 설계 <br>
+4️⃣ 시연 <br>
+5️⃣ 문제 & 해결
 
 <br>
 
-## 1. 개요
+## 1️⃣ 개요
 > 퀸트(Queant)는 여왕개미(Queen + Ant)의 약자입니다.
 보통 개인 투자자를 개미라고 부르는데, 안전한 자산 관리로 여왕개미가 되자는 의미입니다.
 > 
@@ -25,13 +28,15 @@
 
 <br>
 
-## 2. 프로젝트 구성원 & 기여도
+## 2️⃣ 프로젝트 구성원 & 기여도
 
-### 2-1. 프로젝트 구성원
+### 🔸 프로젝트 구성원
 
 ![구성원](assets/구성원.png)
 
-### 2-2. 기여도 (Front-End)
+<br>
+
+### 🔸 기여도 (Front-End)
 
 - 설계
     - Figma 디자인
@@ -53,16 +58,18 @@
 
 <br>
 
-## 3. 개발 환경 & 설계
+## 3️⃣ 개발 환경 & 설계
 
-### 3-1. 아키텍처
+### 🔸 아키텍처
 
 ![아키텍처](assets/아키텍처.png)
 
-### 3-2. 기술 스택
+<br>
+
+### 🔸 기술 스택
 
 <details>
-  <summary><h4>⭐Front-End</h4></summary>
+  <summary><h4>Front-End</h4></summary>
   <li>Visual Studio Code 1.70.0</li>
   <li>Vue3</li>
   <li>Node.js 16.16.0</li>
@@ -72,7 +79,7 @@
 </details>
 
 <details>
-  <summary><h4>⭐Back-End(Spring Boot)</h4></summary>
+  <summary><h4>Back-End(Spring Boot)</h4></summary>
   <li>IntelliJ</li>
   <li>Spring boot 2.6.7</li>
   <li>Spring-boot-jpa</li>
@@ -88,7 +95,7 @@
 </details>
 
 <details>
-  <summary><h4>⭐Back-End(Django)</h4></summary>
+  <summary><h4>Back-End(Django)</h4></summary>
   <li>Python 3.10.5</li>
   <li>Django-apscheduler 0.6.2</li>
   <li>PyMySQL 1.0.2</li>
@@ -98,7 +105,7 @@
 </details>
 
 <details>
-  <summary><h4>⭐CI/CD</h4></summary>
+  <summary><h4>CI/CD</h4></summary>
   <li>AWS EC2</li>
   <li>MariaDB</li>
   <li>Docker</li>
@@ -106,7 +113,9 @@
   <li>Jenkins</li>
 </details>
 
-### 3-3. 설계
+<br>
+
+### 🔸 설계
 
 #### 와이어프레임
 
@@ -118,13 +127,15 @@
 
 <br>
 
-## 4. 시연
+## 4️⃣ 시연
 
-### 4-1. UCC
+### 🔸 UCC
 
 [![UCC](https://img.youtube.com/vi/-WiFoY4lNRk/0.jpg)](https://youtu.be/-WiFoY4lNRk) 
 
-### 4-2. 메인 서비스 시연
+<br>
+
+### 🔸 메인 서비스 시연
 
 #### 상품 검색 & 장바구니 & 가상 포트폴리오
 
@@ -135,7 +146,7 @@
 
 <br>
 
-## 5. 문제 & 해결
+## 5️⃣ 문제 & 해결
 
 <details>
   <summary><h3>소셜 로그인 - Back-End와 통신하며 응답 받을 시점?</h3></summary>
