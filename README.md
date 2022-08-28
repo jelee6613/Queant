@@ -129,13 +129,13 @@
 
 ## 4️⃣ 시연
 
-### 🔸 UCC
+### 🔸 UCC (👇Click!)
 
 [![UCC](assets/로고.png)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9354423d-9390-456c-9b23-f0f12e709ae1/%EC%B5%9C%EC%A2%85ucc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220828T042126Z&X-Amz-Expires=86400&X-Amz-Signature=7ea185586e3bcbc98bcac00df769c6281bfee2ad75f78a9405ade10c1e1971fc&X-Amz-SignedHeaders=host&x-id=GetObject) 
 
 <br>
 
-### 🔸 메인 서비스 시연
+### 🔸 메인 서비스 시연 (👇Click!)
 
 #### 상품 검색 & 장바구니 & 가상 포트폴리오
 
