@@ -83,15 +83,18 @@
 <details>
   <summary><h4>Front-End</h4></summary>
   <li>Visual Studio Code 1.70.0</li>
-  <li>Vue3</li>
-  <li>Node.js 16.16.0</li>
-  <li>npm 8.11.0</li>
+  <li>vue 3.2.13</li>
   <li>vuex 4.0.2</li>
   <li>vue-router 4.0.13</li>
+  <li>bootstrap-vue 2.22.0</li>
+  <li>bootstrap 5.1.3</li>
+  <li>axios 0.27.2</li>
+  <li>Node.js 16.16.0</li>
+  <li>npm 8.11.0</li>
 </details>
 
 <details>
-  <summary><h4>Back-End(Spring Boot)</h4></summary>
+  <summary><h4>Back-End</h4></summary>
   <li>IntelliJ</li>
   <li>Spring boot 2.6.7</li>
   <li>Spring-boot-jpa</li>
@@ -107,7 +110,7 @@
 </details>
 
 <details>
-  <summary><h4>Back-End(Django)</h4></summary>
+  <summary><h4>Data Analysis</h4></summary>
   <li>Python 3.10.5</li>
   <li>Django-apscheduler 0.6.2</li>
   <li>PyMySQL 1.0.2</li>
