@@ -7,10 +7,14 @@
 
 ## 📋목차
 
-1️⃣ <a href="#1️⃣-개요">개요</a> <br>
-2️⃣ <a href="#2️⃣-프로젝트-구성원--기여도">프로젝트 구성원 & 기여도</a> <br>
-3️⃣ <a href="#3️⃣-개발-환경--설계">개발 환경 & 설계</a> <br>
-4️⃣ <a href="#4️⃣-시연">시연</a> <br>
+1️⃣ <a href="#1️⃣-개요">개요</a>
+
+2️⃣ <a href="#2️⃣-프로젝트-구성원--기여도">프로젝트 구성원 & 기여도</a>
+
+3️⃣ <a href="#3️⃣-개발-환경--설계">개발 환경 & 설계</a>
+
+4️⃣ <a href="#4️⃣-시연">시연</a>
+
 5️⃣ <a href="#5️⃣-문제--해결">문제 & 해결</a>
 
 <br>
@@ -129,19 +133,20 @@
 
 ## 4️⃣ 시연
 
-### 🔸 UCC (👇Click!)
+### 🔸 UCC
 
+#### 👇Click!
 [![UCC](assets/로고.png)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9354423d-9390-456c-9b23-f0f12e709ae1/%EC%B5%9C%EC%A2%85ucc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220828T042126Z&X-Amz-Expires=86400&X-Amz-Signature=7ea185586e3bcbc98bcac00df769c6281bfee2ad75f78a9405ade10c1e1971fc&X-Amz-SignedHeaders=host&x-id=GetObject) 
 
 <br>
 
-### 🔸 메인 서비스 시연 (👇Click!)
+### 🔸 메인 서비스 시연 
 
-#### 상품 검색 & 장바구니 & 가상 포트폴리오
+#### 상품 검색 & 장바구니 & 가상 포트폴리오 (👇Click!)
 
 [![상품 검색 & 장바구니 & 가상 포트폴리오](https://img.youtube.com/vi/rMqM7qSuPM0/0.jpg)](https://youtu.be/rMqM7qSuPM0) 
 
-#### MY 포트폴리오
+#### MY 포트폴리오 (👇Click!)
 [![MY 포트폴리오](https://img.youtube.com/vi/rhvItLLQlbU/0.jpg)](https://youtu.be/rhvItLLQlbU) 
 
 <br>
