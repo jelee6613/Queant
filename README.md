@@ -38,12 +38,12 @@
 
 | 이름 | 역할 |
 | --- | --- |
-| 👑류인영 | Back-End & CI/CD |
-| 👨김상협 | Back-End & Front-End |
+| 👑류인영 | Back-End & Server |
+| 👨김상협 | Full-Stack |
 | 👨이재익 | Front-End |
 | 👨이종은 (me) | Front-End |
 | 👩전선영 | Back-End |
-| 👨한동현 | Data Analyst |
+| 👨한동현 | Data-Analyst |
 
 
 <br>
