@@ -9,13 +9,15 @@
 
 1️⃣ <a href="#1️⃣-개요">개요</a>
 
-2️⃣ <a href="#2️⃣-프로젝트-구성원--기여도">프로젝트 구성원 & 기여도</a>
+2️⃣ <a href="#2️⃣-기술스택--기여도">기술스택 & 기여도</a>
 
-3️⃣ <a href="#3️⃣-개발-환경--설계">개발 환경 & 설계</a>
+3️⃣ <a href="#3️⃣-아키텍처--설계">아키텍처 & 설계</a>
 
 4️⃣ <a href="#4️⃣-시연">시연</a>
 
-5️⃣ <a href="#5️⃣-문제--해결">문제 & 해결</a>
+5️⃣ <a href="#5️⃣-개발자">개발자</a>
+
+6️⃣ <a href="#6️⃣-회고">회고</a>
 
 <br>
 
@@ -32,101 +34,128 @@
 
 <br>
 
-## 2️⃣ 프로젝트 구성원 & 기여도
+## 2️⃣ 기술스택 & 기여도
 
-### 🔸 프로젝트 구성원
+### 🔸 기술스택
 
-| 이름 | 역할 |
-| --- | --- |
-| 👑류인영 | Back-End & Server |
-| 👨김상협 | Full-Stack |
-| 👨이재익 | Front-End |
-| 👨이종은 (me) | Front-End |
-| 👩전선영 | Back-End |
-| 👨한동현 | Data-Analyst |
-
+<span>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-993333?style=for-the-badge&logo=Jenkins&logoColor=white">
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</span>
+<br>
+<span>
+<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</span>
 
 <br>
 
 ### 🔸 기여도 (Front-End)
 
-- 설계
-    - Figma 디자인
-    - Components & Routes 구조 설계
-- 개발
-    - Axios 통신 & Store 관리
-        - Login & Register
-        - Admin
-        - Banks
-        - Products
-        - Profile
-        - My Portfolio
-    - 디자인
-        - Navigation Bar
-        - Login & Register
-        - Admin
-        - Products Results
-        - My Portfolio
+<span>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
 
 <br>
 
-## 3️⃣ 개발 환경 & 설계
+<span>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</span>
+
+<br>
+
+<span>
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</span>
+
+#### ◼ 기획
+
+#### ◼ 설계
+
+◽ Figma 디자인
+
+◽ Components 설계
+
+◽ Routes 설계
+
+#### ◼ 개발
+
+◽ Axios 통신 & 로직
+
+    ▪ 로그인 페이지
+
+    ▪ 회원가입 페이지
+
+    ▪ 관리자 페이지
+
+    ▪ 은행정보 페이지
+
+    ▪ 상품정보 페이지
+
+    ▪ 프로필 페이지
+
+    ▪ MY 포트폴리오 페이지
+
+◽ 디자인
+
+    ▪ 내비게이션바
+
+    ▪ 로그인 페이지
+
+    ▪ 회원가입 페이지
+
+    ▪ 관리자 페이지
+
+    ▪ 상품결과 페이지
+
+    ▪ MY 포트폴리오 페이지
+
+<br>
+
+## 3️⃣ 아키텍처 & 설계
 
 ### 🔸 아키텍처
 
 ![아키텍처](assets/아키텍처.png)
-
-<br>
-
-### 🔸 기술 스택
-
-<details>
-  <summary><h4>Front-End</h4></summary>
-  <li>Visual Studio Code 1.70.0</li>
-  <li>vue 3.2.13</li>
-  <li>vuex 4.0.2</li>
-  <li>vue-router 4.0.13</li>
-  <li>bootstrap-vue 2.22.0</li>
-  <li>bootstrap 5.1.3</li>
-  <li>axios 0.27.2</li>
-  <li>Node.js 16.16.0</li>
-  <li>npm 8.11.0</li>
-</details>
-
-<details>
-  <summary><h4>Back-End</h4></summary>
-  <li>IntelliJ</li>
-  <li>Spring boot 2.6.7</li>
-  <li>Spring-boot-jpa</li>
-  <li>Spring Security</li>
-  <li>Java 8</li>
-  <li>Junit 4.13.1</li>
-  <li>Mysql connector java 8.0.29</li>
-  <li>Json Web Token 0.11.2</li>
-  <li>Spring Fox BootStarter 3.0.0</li>
-  <li>Jsoup 1.14.3</li>
-  <li>ModelMapper 2.4.2</li>
-  <li>Spring Cloud Starter AWS 2.2.6</li>
-</details>
-
-<details>
-  <summary><h4>Data Analysis</h4></summary>
-  <li>Python 3.10.5</li>
-  <li>Django-apscheduler 0.6.2</li>
-  <li>PyMySQL 1.0.2</li>
-  <li>Bs4 0.0.1</li>
-  <li>Gunicorn 19.6.0</li>
-  <li>Lxml 4.9.1</li>
-</details>
-
-<details>
-  <summary><h4>CI/CD</h4></summary>
-  <li>AWS EC2</li>
-  <li>MariaDB</li>
-  <li>Docker</li>
-  <li>Nginx</li>
-  <li>Jenkins</li>
-</details>
 
 <br>
 
@@ -162,7 +191,18 @@
 
 <br>
 
-## 5️⃣ 문제 & 해결
+## 5️⃣ 개발자
+
+| 이름 | 역할 |
+| --- | --- |
+| 👑류인영 | Back-End & Server |
+| 👨김상협 | Full-Stack |
+| 👨이재익 | Front-End |
+| 👨이종은 (me) | Front-End |
+| 👩전선영 | Back-End |
+| 👨한동현 | Data-Analyst |
+
+## 6️⃣ 회고
 
 <details>
   <summary><h3>소셜 로그인 - Back-End와 통신하며 응답 받을 시점?</h3></summary>
