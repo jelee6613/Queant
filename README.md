@@ -82,6 +82,10 @@
 
 ### 🔸 기여도 (Front-End)
 
+> 프론트엔드 로직 90%, 디자인 60%를 담당했습니다.  
+> 관리자 페이지 로직을 구현하면서 동기와 비동기 처리를 사용자 중심으로 구현했습니다.  
+> 백엔드 개발자와 소통하며 소셜 로그인 동작 원리를 학습하고, 문제를 해결했습니다.
+
 <span>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -184,9 +188,18 @@
 
 #### 상품 검색 & 장바구니 & 가상 포트폴리오 (👇Click!)
 
+> 원하는 조건으로 상품을 검색할 수 있습니다.  
+> 상품을 장바구니에 담을 수 있습니다.  
+> 다양한 상품을 가상 포트폴리오에 넣어 비교할 수 있습니다.
+
 [![상품 검색 & 장바구니 & 가상 포트폴리오](https://img.youtube.com/vi/rMqM7qSuPM0/0.jpg)](https://youtu.be/rMqM7qSuPM0) 
 
+<br>
+
 #### MY 포트폴리오 (👇Click!)
+
+> 가입한 상품을 MY 포트폴리오에 담아 누적 수익을 그래프로 확인할 수 있습니다.
+
 [![MY 포트폴리오](https://img.youtube.com/vi/rhvItLLQlbU/0.jpg)](https://youtu.be/rhvItLLQlbU) 
 
 <br>
