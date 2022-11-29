@@ -5,43 +5,9 @@
 
 ![메인](assets/메인.png)
 
-## 📋목차
-
-1️⃣ <a href="#1️⃣-개요">개요</a>
-
-2️⃣ <a href="#2️⃣-기술스택--기여도">기술스택 & 기여도</a>
-
-3️⃣ <a href="#3️⃣-아키텍처--설계">아키텍처 & 설계</a>
-
-4️⃣ <a href="#4️⃣-시연">시연</a>
-
-5️⃣ <a href="#5️⃣-개발자">개발자</a>
-
-6️⃣ <a href="#6️⃣-회고">회고</a>
-
-<br>
-
-## 1️⃣ 개요
-> 퀸트(Queant)는 여왕개미(Queen + Ant)의 약자입니다.
-보통 개인 투자자를 개미라고 부르는데, 안전한 자산 관리로 여왕개미가 되자는 의미입니다.
-> 
-> 
-> 최근 금리가 오르며 예금, 적금 상품의 인기가 함께 오르고 있습니다.
-> 퀸트는 국내 은행의 예금, 적금 상품 정보를 제공하고, 사용자가 선택한 조건에 일치하는 상품을 가상의 포트폴리오에 담아 간편하게 비교할 수 있는 서비스를 제공합니다.
-> 
-
-![서비스](assets/서비스.jpg)
-
-<br>
-
-## 2️⃣ 기술스택 & 기여도
-
-### 🔸 기술스택
-
 <span>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -78,25 +44,47 @@
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </span>
 
+## 📋목차
+
+1️⃣ <a href="#1️⃣-개요">개요</a>
+
+2️⃣ <a href="#2️⃣-기여도">기여도</a>
+
+3️⃣ <a href="#3️⃣-아키텍처--설계">아키텍처 & 설계</a>
+
+4️⃣ <a href="#4️⃣-시연">시연</a>
+
+5️⃣ <a href="#5️⃣-개발자">개발자</a>
+
+6️⃣ <a href="#6️⃣-회고">회고</a>
+
 <br>
 
-### 🔸 기여도 (Front-End)
+## 1️⃣ 개요
+> 퀸트(Queant)는 여왕개미(Queen + Ant)의 약자입니다.
+보통 개인 투자자를 개미라고 부르는데, 안전한 자산 관리로 여왕개미가 되자는 의미입니다.
+> 
+> 
+> 최근 금리가 오르며 예금, 적금 상품의 인기가 함께 오르고 있습니다.
+> 퀸트는 국내 은행의 예금, 적금 상품 정보를 제공하고, 사용자가 선택한 조건에 일치하는 상품을 가상의 포트폴리오에 담아 간편하게 비교할 수 있는 서비스를 제공합니다.
+> 
 
-> 프론트엔드 로직 90%, 디자인 60%를 담당했습니다.  
-> 관리자 페이지 로직을 구현하면서 동기와 비동기 처리를 사용자 중심으로 구현했습니다.  
-> 백엔드 개발자와 소통하며 소셜 로그인 동작 원리를 학습하고, 문제를 해결했습니다.
+![서비스](assets/서비스.jpg)
+
+<br>
+
+## 2️⃣ 기여도
+
+### 🔸 Frontend
 
 <span>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
-
 <br>
-
 <span>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
@@ -104,12 +92,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </span>
-
 <br>
-
 <span>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </span>
+
+> Frontend 로직 90%, 디자인 60%를 담당했습니다.  
+> 관리자 페이지 로직을 구현하면서 동기와 비동기 처리를 사용자 중심으로 구현했습니다.  
+> Backend 개발자와 소통하며 소셜 로그인 동작 원리를 학습하고, 문제를 해결했습니다.
 
 #### ◼ 기획
 
@@ -208,31 +198,31 @@
 
 | 이름 | 역할 |
 | --- | --- |
-| 👑류인영 | Back-End & Server |
-| 👨김상협 | Full-Stack |
-| 👨이재익 | Front-End |
-| 👨이종은 (me) | Front-End |
-| 👩전선영 | Back-End |
-| 👨한동현 | Data-Analyst |
+| 👑류인영 | Backend & Server |
+| 👨김상협 | Full Stack |
+| 👨이재익 | Frontend |
+| 👨이종은 (me) | Frontend |
+| 👩전선영 | Backend |
+| 👨한동현 | Data Analyst |
 
 <br>
 
 ## 6️⃣ 회고
 
 <details>
-  <summary><h3>소셜 로그인 - Back-End와 통신하며 응답 받을 시점?</h3></summary>
+<summary>소셜 로그인 - Backend와 통신하며 응답 받을 시점?</summary>
 
 - **문제**
 
 > 소셜 로그인을 구현하기 위해 처음에 세운 전략은 다음과 같다. 
-Front End와 Back End에서 API KEY를 이중으로 관리하기 보단 하나의 API KEY를 이용하고자 소셜 로그인을 위한 모든 로직을 Back End에 작성하고, Front End는 Back End에 단 한 번의 요청으로 소셜 로그인 주소를 Redirect 받고, Token을 발급 받는다. 
+Frontend와 Backend에서 API KEY를 이중으로 관리하기 보단 하나의 API KEY를 이용하고자 소셜 로그인을 위한 모든 로직을 Backend에 작성하고, Frontend는 Backend에 단 한 번의 요청으로 소셜 로그인 주소를 Redirect 받고, Token을 발급 받는다. 
 
 1. 소셜 로그인 버튼 클릭
 2. 소셜 로그인 화면으로 Redirect
 3. 소셜 로그인 성공
 4. 화면에 Token값 출력
  
-1요청 1응답을 준수하지 않아서 문제가 발생했다. Front End는 Back End에게 소셜 로그인 화면을 요청하고, 그에 대한 응답을 받으면 끝난다. 뒤이은 Token값에 접근할 방법이 없다.
+1요청 1응답을 준수하지 않아서 문제가 발생했다. Frontend는 Backend에게 소셜 로그인 화면을 요청하고, 그에 대한 응답을 받으면 끝난다. 뒤이은 Token값에 접근할 방법이 없다.
  
 <br>
  
@@ -240,10 +230,10 @@ Front End와 Back End에서 API KEY를 이중으로 관리하기 보단 하나�
 
 > 로그인 화면을 띄워서 인가 코드(Authorization Code) 발급 요청과 인가 코드로 Token값을 받는 총 2번의 요청을 보낸다.
 
-1. 인가 코드를 받아 백엔드에게 두 번째 요청을 보내기 위해 route를 가진 컴포넌트를 생성
+1. 인가 코드를 받아 Backend에게 두 번째 요청을 보내기 위해 route를 가진 컴포넌트를 생성
 2. 소셜 로그인 플랫폼(Resource Server) Redirect URI에 위 주소를 추가
 
-Front End에서 소셜 로그인 버튼을 클릭했을 때 Back End 로직에 의해 소셜 로그인 화면이 띄어지고, 사용자가 소셜 로그인에 성공하면 Redirect URI의 Query로 인가 코드에 접근할 수 있다. Back End에 인가 코드를 담아 요청하면 작성된 로직에 의해 소셜 로그인 플랫폼에 Token값을 응답 받는다.
+Frontend에서 소셜 로그인 버튼을 클릭했을 때 Backend 로직에 의해 소셜 로그인 화면이 띄어지고, 사용자가 소셜 로그인에 성공하면 Redirect URI의 Query로 인가 코드에 접근할 수 있다. Backend에 인가 코드를 담아 요청하면 작성된 로직에 의해 소셜 로그인 플랫폼에 Token값을 응답 받는다.
 > 
 
 ```jsx
@@ -289,7 +279,7 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 </details>
 
 <details>
-  <summary><h3>실시간 이중 필터링 처리</h3></summary>
+<summary>실시간 이중 필터링</summary>
 
 - **문제**
 
@@ -317,7 +307,7 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 </details>
 
 <details>
-  <summary><h3>비동기 처리가 항상 옳은 것일까?</h3></summary>
+<summary>비동기 처리가 항상 옳은 것일까?</summary>
 
 - **문제**
 
@@ -339,7 +329,7 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 </details>
 
 <details>
-  <summary><h3>v-for의 배열 요소를 read뿐 아니라 write하는 방법</h3></summary>
+<summary>v-for의 배열 요소를 read뿐 아니라 write하는 방법</summary>
 
 - **문제**
 
@@ -348,26 +338,18 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 
 ```html
 <table class="rwd-table">
-
 	...
-
     <tr v-for="customProduct in customProducts" :key="customProduct">
-
 			...
-	
       <td>
         <p>{{ customProduct.name }}</p>
       </td>
       <td>
         <p>{{ customProduct.start_date }} ~ {{ customProduct.end_date }}</p>
       </td>
-
 			...
-
     </tr>
-
 	...
-
 </table>
 ```
 
@@ -379,15 +361,11 @@ getGoogleAuthorizationCode({ dispatch }, authorizationCode) {
 > 
 
 ```html
-	...
-
-		<td>
-		  <button @click="openCustomProductEditModal(customProdcut)">
-		    수정
-		  </button>
-		</td>
-
-	...
+<td>
+  <button @click="openCustomProductEditModal(customProdcut)">
+    수정
+  </button>
+</td>
 ```
 
 ![해결4](assets/해결4.gif)
